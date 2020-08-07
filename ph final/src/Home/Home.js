@@ -108,10 +108,10 @@ class Home extends Component {
         <div className="fifth">
           <h3>Video about our process</h3>
           <div>
-          <ReactPlayer
+            <ReactPlayer
               className="video"
-              width="2000px"
-              height="400px"
+              width="1450px"
+              height="600px"
               url="https://www.youtube.com/watch?v=aS-LUW5Jim0"
             />
           </div>
