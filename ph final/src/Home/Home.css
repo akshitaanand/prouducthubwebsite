@@ -1,0 +1,84 @@
+.Home .lander {
+  padding: 0;
+  text-align: center;
+}
+
+.align {
+  text-align: center;
+}
+.container {
+  clear: both; /* container won't collapse, next element outside container won't float up */
+}
+.leftHeader {
+  float: left; /* Header 1 goes to left of page */
+  margin-top: 20px;
+  margin-left: 150px;
+}
+.rightHeader {
+  float: right; /* Header 2 goes to right of page */
+  margin-top: 20px;
+  margin-right: 40px;
+}
+.space3 {
+  margin-top: 20px;
+  float: right;
+}
+.space2 {
+  margin-top: 20px;
+  float: left;
+}
+.intro {
+  height: 500px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f7b748;
+}
+.first {
+  height: 600px;
+  background-color: rgb(221, 221, 144);
+  text-align: center;
+}
+
+.second {
+  height: 200px;
+  background-color: rgb(236, 154, 123);
+  text-align: center;
+}
+
+.third {
+  height: 200px;
+  background-color: lightgray;
+  text-align: center;
+}
+
+.fourth {
+  height: 200px;
+  background-color: lightgreen;
+  text-align: center;
+}
+
+.fifth {
+  height: 200px;
+  background-color: pink;
+  text-align: center;
+}
+
+.sixth {
+  height: 200px;
+  background-color: lightblue;
+  text-align: center;
+}
+
+.Home .lander h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+}
+
+.Home .lander h2 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 60;
+  font-size: 20;
+}
+
+.Home .lander p {
+  color: #999;
+}
